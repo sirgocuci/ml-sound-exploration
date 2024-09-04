@@ -9,6 +9,8 @@
 
 📝 In the PDF, you'll find a detailed walkthrough of the methods used and the results achieved. If you're curious about how sound analysis can revolutionize industrial maintenance, you're in the right place!
 
+💻 I've also included the `.ipynb` notebook with the open-source code, so you can explore and experiment with the project yourself!
+
 * 🌍  Developed in Como, Italy
 * ✉️  Let's connect: [sirgo.cuci@gmail.com](mailto:sirgo.cuci@gmail.com)
 * 🧠  Always eager to learn more about machine learning and its applications in real-world scenarios.
