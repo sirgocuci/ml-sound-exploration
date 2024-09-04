@@ -1,4 +1,4 @@
-👋 Hey there, welcome to my Machine Learning Sound Exploration Project!
+👋 Welcome to my Machine Learning Sound Exploration Project!
 ==================================================
 
 🔍 In this project, I've designed a system for analyzing sounds that could be adapted for industrial use, particularly in detecting machinery wear and tear.
